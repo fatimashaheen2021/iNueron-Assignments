@@ -1,2 +1,2 @@
-# iNueron-Assignments
+# iNeuron-Assignments
 Assignment1
